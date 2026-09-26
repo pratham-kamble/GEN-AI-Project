@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pydantic
+pydantic-settings
+python-dotenv
+python-multipart
+pdfplumber
+python-docx
+groq
+sentence-transformers
+numpy
+scikit-learn
+pytest
